@@ -1,5 +1,5 @@
 
-**_Make a personal blog or web page_**. Please send me the URL for your website via email as soon as you have one.  This _blog_ will be used to submit weekly assignments and documentation for your projects. This can be a dedicated page from an existing personal website/blog if you already have one. If you use a pre-existing blog, please make a designated section for your class work.
+**_Make a personal blog or web page_**. Please send me the URL for your website via email (chester.dols@gmail.com) as soon as you have one.  This _blog_ will be used to submit weekly assignments and documentation for your projects. This can be a dedicated page from an existing personal website/blog if you already have one. If you use a pre-existing blog, please make a designated section for your class work.
 
 _If you do not have a existing website/blog, I suggest…_
 * Tumblr.com (free)
