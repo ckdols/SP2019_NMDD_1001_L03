@@ -15,9 +15,9 @@ _If you want to start a quick and pretty portfolio for the class consider…._ (
 * SquareSpace
   
 **Read & Respond:**
+Post response to your blog....
 
 [The Medium Is the Message](http://www.chesterdols.com/wp-content/uploads/2018/09/mediummessage_mcluhan.pdf)
-Respond to the reading and post to your blog.
 
 * What thoughts or issues did you have with anything he may have said?  Do you agree or disagree? How do his theories relate to current _new media_? (150 words.)
 * Choose an artist, designer, or project.  Think critically about their chosen media.  Explain why they do (or do not) use the appropriate media/medium for their work.    (500 words at least…….)
