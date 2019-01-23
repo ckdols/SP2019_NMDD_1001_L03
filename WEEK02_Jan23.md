@@ -5,6 +5,7 @@ Make a photo collage poster of something which inspires you.  You can draw inspi
 The point of the assignment is to exercise the use of the Principles of Design and practice using Photoshop and Illustrator workflow.  Give yourself time to play with the programs.  A nicely done poster could take up to 10 hrs of work.  Simple things can take longer than you expect!!!  Pay close attention to your use of Color, Space, Balance, Repetition, Rhythm, Movement, Contrast, and Scale.  Also be critical of your use of Typography, Alignment, Proximity, Hierarchy, and Consistency.  These posters should be graphic and nicely done with intent.
 
 Post your final work to the blog.  Also, make a short write up on you thoughts and process.
+
 Answer: What was your source of inspiration? Why did you chose this composition? Where did you get your content? What design principles did you use effectively and why? How was it working with Photoshop/Illustrator for the first time.
 
 YOU WILL PRESENT YOUR WORK NEXT CLASS!!!  Presentations and Critiques are a place and time for growth and feedback.  I hope to encourage positive energy and motivation for the future!
