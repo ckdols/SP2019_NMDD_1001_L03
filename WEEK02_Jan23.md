@@ -8,10 +8,14 @@ The point of the assignment is to exercise the use of the Principles of Design a
 
 ~~Make a basic HTML information page for your photo collage poster.  As I demonstrated in class, use _CodePen.io_ to write and host your HTML project.  Link the image url from your blog to the page and add a title with a written description about the content and intention behind your design.~~
 
-~~* What was your source of inspiration?~~
-~~* Why did you chose this composition?~~
-~~* Where did you get your content?~~
-~~* What design principles did you use effectively and why?~~
+~~What was your source of inspiration?~~
+
+~~Why did you chose this composition?~~
+
+~~Where did you get your content?~~
+
+~~What design principles did you use effectively and why?~~
+
 
 **Continue Reading**
 
