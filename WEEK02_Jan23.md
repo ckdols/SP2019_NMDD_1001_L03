@@ -1,3 +1,8 @@
+
+[Today's Slides](https://docs.google.com/presentation/d/1n_oox1DpwAuGRkoKTaMMzH_RU2r3s__RzNi3l5U-ZaU/edit?usp=sharing)
+
+
+
 **_Assignment:_** Please post image to your blog.
 
 Make a photo collage poster of something which inspires you.  You can draw inspiration from your favorite book, poem, movie, TV show, story, event, person, celebrity, icon, place, destination etc.  These photo collages, should be primarily constructed from found and personal photos.  You can also use patterns, textures, and other drawings to create supplementary content. 
@@ -9,9 +14,6 @@ The point of the assignment is to exercise the use of the Principles of Design a
 Answer: What was your source of inspiration? Why did you chose this composition? Where did you get your content? What design principles did you use effectively and why? How was it working with Photoshop/Illustrator for the first time.
 
 YOU WILL PRESENT YOUR WORK NEXT CLASS!!!  Presentations and Critiques are a place and time for growth and feedback.  I hope to encourage positive energy and motivation for the future!
-
-
-[Today's Slides](https://docs.google.com/presentation/d/1n_oox1DpwAuGRkoKTaMMzH_RU2r3s__RzNi3l5U-ZaU/edit?usp=sharing)
 
 
 **Continue Reading**
