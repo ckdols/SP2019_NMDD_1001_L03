@@ -42,10 +42,10 @@
 
 [Lara](https://larasophiafoley.squarespace.com/nmddblog/)
 
+[Isabella](https://www.tumblr.com/blog/gangstaknifewieldingcrab)
+
 [Kyree]()
 
 [Tatiana]()
 
-[Isabella]()
-
-[Olivia] ()
+[Olivia]()
