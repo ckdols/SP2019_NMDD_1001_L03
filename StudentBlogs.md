@@ -1,43 +1,51 @@
-Olivia
+[Chelsea]( https://ashleychelseanmdd.tumblr.com)
 
-Chelsea
+[Alex](alexjpeg.com)
 
-Alex
+[Victoria](www.victoriamessikian.com)
 
-Victoria 
+[Lauren](https://www.tumblr.com/blog/laurensnewmedia)
 
-Lauren
+[Robert](therobertsundstrom.com)
 
-Robert 
+[Mitch](https://www.tumblr.com/dashboard)
 
-Mitch or Muneeb 
+[Gabi](https://gabiwilson15.tumblr.com)
 
-Gaby
+[James](https://www.tumblr.com/blog/jamesparknmdd)
 
-James
+[Nicole](https://nicolezlot.home.blog/)
 
-Nicole
+[Austin](https://www.tumblr.com/blog/austinpoonnmdd1001)
 
-Austin
+[Huyen](https://huyenlam6.wordpress.com)
 
-Huyen 
+[Marielle](https://mariellesarmiento.tumblr.com)
 
-Marielle
+[Gaby](http://gabysilva143.tumblr.com/)
 
-Tatiana
+[Aisha](https://ajamal3.tumblr.com/)
 
-Gabi
+[Katie](https://katieinfoweb.tumblr.com/)
 
-Aisha
+[Valeria](https://medium.com/@valeco97)
 
-Katie
+[Troy](https://www.tumblr.com/blog/troylopez)
 
-Valeria or Val
+[Corinne](https://thisiscorinne.weebly.com)
 
-Troy
+[Maggie]( silentstudentstranger.tumblr.com)
 
-Corinne
+[Rianna](https://riannabelaire.com/blog/)
 
-Maggie
+[Samantha](samanthawei.tumblr.com)
 
-Isabella
+[Lara](https://larasophiafoley.squarespace.com/nmddblog/)
+
+[Kyree]()
+
+[Tatiana]()
+
+[Isabella]()
+
+[Olivia] ()
