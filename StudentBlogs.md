@@ -46,6 +46,10 @@
 
 [Kyree]()
 
-[Tatiana]()
+[Denise]()
 
-[Olivia]()
+[Magdalena]()
+
+[Duc]()
+
+
