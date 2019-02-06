@@ -18,3 +18,5 @@ Your codePen should have:
 [GoogleFonts](https://fonts.google.com/)
 
 [Imgur](https://imgur.com/)
+
+[W3Schools](https://www.w3schools.com/css/)
