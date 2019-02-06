@@ -42,7 +42,7 @@
 
 [Lara](https://larasophiafoley.squarespace.com/nmddblog/)
 
-[Isabella](https://gangstaknifewieldingcrab.com)
+[Isabella](https://gangstaknifewieldingcrab.tumblr.com)
 
 [Magdalena](https://maggie5731.tumblr.com)
 
