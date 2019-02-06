@@ -1,3 +1,5 @@
+[Class Slides](https://docs.google.com/presentation/d/1n_oox1DpwAuGRkoKTaMMzH_RU2r3s__RzNi3l5U-ZaU/edit?usp=sharing)
+
 **_Assignment 1:_** Post a URL link of your CopePen project to your blog.**
 
 Make a basic HTML information page for your photocollage poster, and style it in CSS with fonts and colors.  As I demonstrated in class, use _CodePen.io_ to write and host your HTML/CSS project.  Add images of your photocollage process and your final product.  Create a short narrative for the project and give the a written description of what you were thinking in the work, what it represents, and issues that you had in making it, etc.
