@@ -8,7 +8,7 @@
 
 [Robert](https://therobertsundstrom.com) 
 
-[Mitch](https://www.tumblr.com/dashboard)  X
+[Mitch](https://www.ifortunatelymitch.tumblr.com) 
 
 [Gabi](https://gabiwilson15.tumblr.com)
 
@@ -26,7 +26,7 @@
 
 [Aisha](https://ajamal3.tumblr.com/)
 
-[Katie](https://katienmdd.tumblr.com) X
+[Katie](https://katienmdd.tumblr.com) 
 
 [Valeria](https://medium.com/@valeco97)
 
