@@ -1,6 +1,6 @@
 [Chelsea]( https://ashleychelseanmdd.tumblr.com)
 
-[Alex](https://alexjpeg.com) 
+[Alex/Duc](https://alexjpeg.com) 
 
 [Victoria](https://www.victoriamessikian.com) 
 
@@ -49,7 +49,5 @@
 [Kyree]() X
 
 [Denise]() X
-
-[Duc]() X
 
 
