@@ -4,11 +4,11 @@
 
 [Victoria](www.victoriamessikian.com)
 
-[Lauren](https://www.tumblr.com/blog/laurensnewmedia)
+[Lauren](https://laurensnewmedia.tumblr.com)
 
-[Robert](therobertsundstrom.com)
+[Robert](therobertsundstrom.com) 
 
-[Mitch](https://www.tumblr.com/dashboard)
+[Mitch](https://www.tumblr.com/dashboard)  X
 
 [Gabi](https://gabiwilson15.tumblr.com)
 
