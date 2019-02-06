@@ -26,7 +26,7 @@
 
 [Aisha](https://ajamal3.tumblr.com/)
 
-[Katie](https://katieinfoweb.tumblr.com) X
+[Katie](https://katienmdd.tumblr.com) X
 
 [Valeria](https://medium.com/@valeco97)
 
