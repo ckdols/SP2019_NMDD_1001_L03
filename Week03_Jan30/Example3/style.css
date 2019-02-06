@@ -1,0 +1,26 @@
+body {
+  font-family:'Open Sans Condensed', sans-serif;
+  background: #7289ad;
+  padding: 25px;
+  color: #f2efff;
+}
+
+h1 {font-family:'Roboto', sans-serif;
+  font-size: 40px;
+  font-weight: 100i;
+  color: #ffc9eb;
+}
+
+h2 {font-family:'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  color: #70e5dd;
+  background-color: #2a302f;
+  font-style: italic;
+}
+
+h3 {font-family:'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  color: #e0deed;
+}
