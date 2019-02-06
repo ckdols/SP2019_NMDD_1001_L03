@@ -42,14 +42,14 @@
 
 [Lara](https://larasophiafoley.squarespace.com/nmddblog/)
 
-[Isabella](https://www.tumblr.com/blog/gangstaknifewieldingcrab)
+[Isabella](https://gangstaknifewieldingcrab.com)
 
-[Kyree]()
+[Magdalena](https://maggie5731.tumblr.com)
 
-[Denise]()
+[Kyree]() X
 
-[Magdalena]()
+[Denise]() X
 
-[Duc]()
+[Duc]() X
 
 
