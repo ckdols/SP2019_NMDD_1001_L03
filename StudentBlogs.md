@@ -12,7 +12,7 @@
 
 [Gabi](https://gabiwilson15.tumblr.com)
 
-[James](https://www.tumblr.com/blog/jamesparknmdd)
+[James](jamesparknmdd.tumblr.com)
 
 [Nicole](https://nicolezlot.home.blog/)
 
