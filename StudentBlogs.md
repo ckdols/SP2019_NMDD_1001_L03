@@ -16,7 +16,7 @@
 
 [Nicole](https://nicolezlot.home.blog/)
 
-[Austin](https://www.tumblr.com/blog/austinpoonnmdd1001)
+[Austin](https://austinpoonnmdd1001.tumblr.com)
 
 [Huyen](https://huyenlam6.wordpress.com)
 
