@@ -34,9 +34,9 @@
 
 [Corinne](https://thisiscorinne.weebly.com)
 
-[Maggie](https://silentstudentstranger.tumblr.com)
+[Maggie](https://silentstudentstranger.tumblr.com) X
 
-[Rianna](https://riannabelaire.com/blog/)
+[Rianna](https://riannabelaire.com/blog/) PW
 
 [Samantha](https://samanthawei.tumblr.com)
 
