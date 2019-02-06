@@ -1,4 +1,4 @@
-[Class Slides](https://docs.google.com/presentation/d/1n_oox1DpwAuGRkoKTaMMzH_RU2r3s__RzNi3l5U-ZaU/edit?usp=sharing)
+[Today's Slides](https://docs.google.com/presentation/d/1n_oox1DpwAuGRkoKTaMMzH_RU2r3s__RzNi3l5U-ZaU/edit?usp=sharing)
 
 **_Assignment 1:_** Post a URL link of your CopePen project to your blog.**
 
