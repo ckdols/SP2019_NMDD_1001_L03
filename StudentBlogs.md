@@ -34,11 +34,11 @@
 
 [Corinne](https://thisiscorinne.weebly.com)
 
-[Maggie]( silentstudentstranger.tumblr.com)
+[Maggie](https://silentstudentstranger.tumblr.com)
 
 [Rianna](https://riannabelaire.com/blog/)
 
-[Samantha](samanthawei.tumblr.com)
+[Samantha](https://samanthawei.tumblr.com)
 
 [Lara](https://larasophiafoley.squarespace.com/nmddblog/)
 
