@@ -4,7 +4,7 @@ Make a basic HTML information page for your photocollage poster, and style it in
 
 Your codePen should have:
 
-* A HTML Head (with relevant links)
+* A HTML Head (with relevant style links....ie.. google font links)
 * A HTML Body using appropriate Headings, Paragraph, Divs, Image Links, etc.
 * CSS font styles
 * CSS colors
