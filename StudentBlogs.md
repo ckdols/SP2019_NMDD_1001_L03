@@ -1,8 +1,8 @@
 [Chelsea]( https://ashleychelseanmdd.tumblr.com)
 
-[Alex](alexjpeg.com) X
+[Alex](https://alexjpeg.com) X
 
-[Victoria](www.victoriamessikian.com) X
+[Victoria](https://www.victoriamessikian.com) X
 
 [Lauren](https://laurensnewmedia.tumblr.com)
 
