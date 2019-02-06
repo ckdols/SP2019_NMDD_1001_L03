@@ -26,11 +26,11 @@
 
 [Aisha](https://ajamal3.tumblr.com/)
 
-[Katie](https://katieinfoweb.tumblr.com/)
+[Katie](https://katieinfoweb.tumblr.com) X
 
 [Valeria](https://medium.com/@valeco97)
 
-[Troy](https://www.tumblr.com/blog/troylopez)
+[Troy](https://troylopez.tumblr.com)
 
 [Corinne](https://thisiscorinne.weebly.com)
 
