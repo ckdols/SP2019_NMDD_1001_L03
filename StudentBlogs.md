@@ -6,7 +6,7 @@
 
 [Lauren](https://laurensnewmedia.tumblr.com)
 
-[Robert](therobertsundstrom.com) 
+[Robert](https://therobertsundstrom.com) 
 
 [Mitch](https://www.tumblr.com/dashboard)  X
 
