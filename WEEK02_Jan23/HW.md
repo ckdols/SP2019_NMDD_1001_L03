@@ -23,7 +23,7 @@ YOU WILL PRESENT YOUR WORK NEXT CLASS!!!  Presentations and Critiques are a plac
 
 
 
-~~_This part of the assignment for next week was removed from this weeks work...._~~
+_This part of the assignment for next week was removed from this weeks work...._
 
 ~~**_Assignment 2:_** Post a URL link to your project on your blog.~~
 
