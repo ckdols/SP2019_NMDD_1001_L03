@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+  background: white;
+  margin: auto;
+  padding: 70px;
+  color: #37474f;
+  text-align: left;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  font-weight: 100i;
+  text-transform: uppercase;
+  color: black;
+  padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+  text-align: left;
+}
+
+p.paragraph2 {
+  font-style: italic;
+}
+
+#paragraph3 {
+  color: red;
+}
+
