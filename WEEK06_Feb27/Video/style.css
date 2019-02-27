@@ -1,0 +1,9 @@
+.videoWrapper {
+}
+
+.videoWrapper iframe {
+	position: absolute;
+	width: 75%;
+	height: 75%;
+  
+}
