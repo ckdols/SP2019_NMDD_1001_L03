@@ -1,0 +1,17 @@
+.nav {
+  border: 1px solid coral;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+}
+
+.nav-items{
+  border: 2px solid blue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-item{
+  padding-right: 20px;
+}
