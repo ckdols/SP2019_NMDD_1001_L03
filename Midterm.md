@@ -5,7 +5,7 @@ Chose an artist, designer, collective, musician, band, athlete, theorist, scient
 
 **Make a website for this person.**  Treat them like a client.  Think about the content that would be necessary for their website.  If they have a website already, I encourage you to look at their site and model you project from what exists.  Alternatively, you can also chose to make a personal web portfolio if you have a personal practice and visual documentation of your work.
 
-Schedule:
+**_Schedule:_**
 
 **March 6th:**
 
