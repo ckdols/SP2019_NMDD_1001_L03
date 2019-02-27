@@ -1,0 +1,25 @@
+.container {
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  
+/*   grid-template-columns: 100px 200px auto; */
+/*   grid-template-columns: 100px auto 300px; */
+/*   grid-template-columns: repeat(4, 100px); */
+/*   grid-template-columns: repeat(4, 1fr 2fr); */
+
+  grid-gap: 20px;
+}
+
+.item {
+  border: 1px solid blue;
+/*   margin: 10px; */
+}
+
+/* .item6 {
+  grid-column: span 6 / 7;
+} */
+
+.item6 {
+  grid-column: span 3;
+}
