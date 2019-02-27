@@ -1,0 +1,15 @@
+div.stickymenu{
+    position: sticky;
+    background-color: yellow;
+    padding: 10px;
+    top: 0;
+    font-size: 15px;
+    width: 25%;
+    float: left;
+}
+
+
+p{
+  margin-left: 310px;
+  width: 60%;
+}
