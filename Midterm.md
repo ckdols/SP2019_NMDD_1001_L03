@@ -9,11 +9,12 @@ Chose an artist, designer, collective, musician, band, athlete, theorist, scient
 
 **March 6th:**
 
-* 3 precedent websites which will inform your design process.  (add links to blog)
+* **_3 precedent websites_** which will inform your design process.  (add links to blog)
 
-* 1 developed wireframe made in Illustrator which shows a concrete design plan.  Fonts, spacing (margin/padding), blocks, images, alignment, positioning etc...  should be indicated in an annotation color of your choice. (post high quality jpegs to blog)
+*  **_1 developed wireframe_** made in Illustrator which shows a concrete design plan.  You will submit the refined wireframe as well as the same wireframe with annotations.  You should have one wireframe for every page of your planned website. This wireframe should be roughly based on the 3 precedent websites that you have chosen.  Be critical about what is working for them and what is not working.  Incoperate aspects of the designs which you find to be positive.   As per the annotated pages,
+fonts, spacing (margin/padding), blocks, images, alignment, positioning etc...  should be indicated in a highlight color/font of your choice. Please keep the annotations ledgible.  (post high quality jpegs of wireframes and wireframes with annotations to blog) 
 
-* 1 HTML/CSS Style Guide with fonts, colors, and sizing specified as a base template for all other HTML pages. (post CodePen url link to your blog)
+* **_1 HTML/CSS Style Guide_** with fonts, colors, sizing, spacing, padding, etc. as specified in your wireframes.  This will become the style sheet for for all HTML pages. (post CodePen url link to your blog)
 
 * Begin the “skeleton” for your final project in HTML/CSS.  Come to class prepared to work on troubleshoot any issues
 
