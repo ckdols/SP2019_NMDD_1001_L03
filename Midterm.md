@@ -29,4 +29,4 @@ Have a working site with all your content, images, and links in place.  Your pro
 * 3 Precendent Websites
 * 1 Wireframe
 * 1 Style Guide
-* Complete HTML/CSS project with working links and content complete.
+* Complete HTML/CSS project with working links and content complete. (at least 3 working html pages)
