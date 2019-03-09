@@ -1,4 +1,4 @@
-_Midterm will be due March 18th by 12:00 am Eastern time._
+**_Midterm will be due March 18th by 12:00 am Eastern time._**
 
 
 Chose an artist, designer, collective, musician, band, athlete, theorist, scientist etc who inspires you or your work.
