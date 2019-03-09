@@ -30,3 +30,5 @@ Have a working site with all your content, images, and links in place.  Your pro
 * 1 Wireframe
 * 1 Style Guide
 * Complete HTML/CSS CodePen Project with working links and content complete. (at least 3 working html pages)
+
+**Post all your work, your images, and url links to you blog!**
