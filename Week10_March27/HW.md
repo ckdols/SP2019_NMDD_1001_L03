@@ -8,6 +8,8 @@ Examples of interactive or responsive engineering:
 
 * [Sol Lewitt](https://pagethink.com/v/blog-detail/Thoughts-on-Sol-LeWitt-The-Visionary-and-the-Makers/a8/)
 
+* [Sol Lewitt in process](https://www.improvisedlife.com/2015/11/30/sol-lewitts-wall-drawing-797/)
+
 * [Casey Reas](https://vimeo.com/22955812)
 
 * [Architecture by Aedas](https://youtu.be/RU7kXOR94qg)
