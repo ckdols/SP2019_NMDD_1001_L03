@@ -4,6 +4,10 @@ Please use the [p5.js webeditor](https://editor.p5js.org/) as your text editor p
 
 Also, explore the [p5.js reference](https://p5js.org/reference/) for ready to use functions.
 
+**Due Next Class:**
+Create 2 P5.js 'sketches'.  The first sketch should be a static composition using color functions and primitive shapes. The second sketch should be a type of drawing tool using mouse functions and/or changing variables.
+
+
 Examples of interactive or responsive engineering:
 
 * [Sol Lewitt](https://pagethink.com/v/blog-detail/Thoughts-on-Sol-LeWitt-The-Visionary-and-the-Makers/a8/)
