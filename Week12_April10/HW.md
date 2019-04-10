@@ -9,3 +9,5 @@ I am going to be fairly open about what you do for this.  Consider making a inte
 Come to next class with ideas, inspiration, and a working first draft in P5 of what you would like to tackle for your final.
 
 Literally no wrong answers to this project and where it can go.
+
+[slides](https://docs.google.com/presentation/d/1TPKNeW7QaHzCBbWU03iLdQntqyLvHvnniCo8zOirzmA/edit?usp=sharing)
